@@ -1,0 +1,5 @@
+[submodule "vendor/pi-gen"]
+	path = vendor/pi-gen
+	url = https://github.com/RPi-Distro/pi-gen
+	branch = arm64
+	shallow = true
